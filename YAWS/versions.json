@@ -27,6 +27,10 @@
         "Hungarian": {
             "file": "https://raw.githubusercontent.com/LivacoNew/Addon-Translations/master/YAWS/2.0.0/Hungarian.json",
             "icon": "flags16/hu.png"
+        },
+        "Brazilian_pt": {
+            "file": "https://raw.githubusercontent.com/LivacoNew/Addon-Translations/master/YAWS/2.0.0/Brazilian_pt.json",
+            "icon": "flags16/br.png"
         }
     }
 }
