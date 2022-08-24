@@ -7,8 +7,8 @@
     "net_cooldown": "Você está enviando muitas requisições ao servidor, espere um pouco e tente novamente.",
     "error": "Parece que algo deu errado. Tente novamente mais tarde.",
 
-    "admin_permissions_saved": "Suas novas permissões salvas com sucesso.",
-    "admin_config_saved": "Sua configuração foi salva com sucesso.",
+    "admin_permissions_saved": "Suas novas permissões foram salvas com sucesso.",
+    "admin_config_saved": "Suas novas configurações foram salvas com sucesso.",
 
     "admin_preset_added": "Predefinição adicionada com sucesso.",
     "admin_preset_edited": "Predefinição salva com sucesso.",
@@ -16,10 +16,10 @@
     "admin_preset_dupe": "Uma predefinição com esse nome já existe.",
     "admin_preset_cantfind": "Essa predefinição não foi encontrada.",
     "admin_preset_removed": "Predefinição removida.",
-    "admin_preset_limit": "Você não pode ter mais de 32 predefinições.",
+    "admin_preset_limit": "Você não pode ter mais que 32 predefinições.",
 
     "admin_player_warned": "%s foi advertido com sucesso.",
-    "admin_player_note_update": "Successfully updated that players admin notes.",
+    "admin_player_note_update": "As anotações desse jogador foram atualizadas com successo.",
     "admin_player_wipewarns": "Advertências de %s removidas com sucesso.",
     "admin_player_joinwithactive": "%s entrou no servidor com %s pontos ativos.",
 
@@ -64,7 +64,7 @@
 
     "viewing_player_no_warns_found": "Nenhuma advertência foi encontrada para este jogador.",
     "viewing_player_action_submit_warn": "Enviar nova advertência",
-    "viewing_player_action_view_notes": "Ver Anotações de Administraor",
+    "viewing_player_action_view_notes": "Ver Anotações de Administrador",
     "viewing_player_player_notes": "Anotações de Administrador",
     "viewing_player_save_player_notes": "Salvar anotação de Administrador",
 
@@ -94,7 +94,7 @@
     "warn_player_submit": "Advertir jogador",
     "warn_player_reason": "Motivo para advertência",
 
-    "admin_tab_sidebar_permissions": "Permissiões",
+    "admin_tab_sidebar_permissions": "Permissões",
     "admin_tab_sidebar_settings": "Configurações",
     "admin_tab_sidebar_presets": "Predefinições",
     "admin_tab_sidebar_punishments": "Punições",
@@ -113,13 +113,13 @@
     "admin_tab_warning_reason_placeholder": "Defina um motivo",
 
 
-    "yaws_top": "Esta página é vista somente ao comprador do add-on, ou seja, mesmo",
+    "yaws_top": "Esta página é vista somente ao comprador do add-on, ou seja, você mesmo",
     "yaws": "Yet Another Warning System",
     "yaws_version": "Lançamento %s",
-    "yaws_outdated": "Nova atualização disponúvel. Por favor, baixe-a logo!",
+    "yaws_outdated": "Nova atualização disponível. Por favor, baixe-a logo!",
 
     "context_warn": "Advertir este jogador",
-    "context_presets": "Advertir este jogador usando predefinição",
+    "context_presets": "Advertir este jogador usando uma predefinição",
     "context_points": "Contagem de pontos: %s",
     "context_reason": "Motivo da advertência: %s",
     "context_submit": "Aplicar advertência",
@@ -146,7 +146,7 @@
     "accessability_inactivepoints": "Pontos inativos",
 
     "permission_view_ui": "Abrir interface",
-    "permission_view_self_warns": "Ver próprias advertências",
+    "permission_view_self_warns": "Ver suas advertências",
     "permission_view_others_warns": "Ver advertências de outros",
     "permission_view_admin_settings": "Ver e alterar configurações de Administrador",
     "permission_create_warns": "Criar Advertências",
@@ -220,6 +220,6 @@
     "admin_settings_message_admins_on_active_join_desc": "Envia um aviso a todos que têm a permisssão \"Ver advertências de outros\" quando um jogador com pontos ativos se conecta.",
 
     "admin_settings_category_points": "Pontos",
-    "admin_settings_category_branding": "Marca",
+    "admin_settings_category_branding": "Exibição",
     "admin_settings_category_warnings": "Advertências"
 }
