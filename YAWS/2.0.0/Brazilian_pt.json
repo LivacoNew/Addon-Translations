@@ -146,7 +146,7 @@
     "accessability_inactivepoints": "Pontos inativos",
 
     "permission_view_ui": "Abrir interface",
-    "permission_view_self_warns": "Ver pr advertências",
+    "permission_view_self_warns": "Ver próprias advertências",
     "permission_view_others_warns": "Ver advertências de outros",
     "permission_view_admin_settings": "Ver e alterar configurações de Administrador",
     "permission_create_warns": "Criar Advertências",
