@@ -47,7 +47,7 @@
     "player_warn_searchid_wait": "Searching... please wait...",
     "player_warn_searchid_nonefound": "No warning with that ID was found.",
     "player_warn_ui": "You cannot warn through the chat as you are only permitted to use presets.",
-    "player_warn_not_found": "Could not find player \\",
+    "player_warn_not_found": "Could not find player \"%s\"",
     "player_warn_wrongpoints": "The point count specified was invalid.",
     "player_warn_notyou": "You can't warn yourself.",
     "player_warn_deleted": "Successfully deleted warning.",
@@ -87,8 +87,7 @@
     "viewing_player_table_right_points": "Copy Points Added",
     "viewing_player_table_right_server": "Copy Server Name",
     "viewing_player_table_right_log": "Copy as Log",
-    "viewing_player_table_right_edit": "Edit Reason",
-    "viewing_player_table_log_format": "[%s] %s(%s) warned %s(%s) for the reason \\",
+    "viewing_player_table_log_format": "[%s] %s(%s) warned %s(%s) for the reason \"%s\", adding %s points.",
 
     "viewing_player_wipe_header": "Wipe all of %s's warnings?",
     "viewing_player_wipe_subtext": "This is irreversible. Make sure this is what you want to do.",
