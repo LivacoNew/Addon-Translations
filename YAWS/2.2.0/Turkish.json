@@ -67,7 +67,7 @@
     "sidebar_settings": "Ayarlar",
     "sidebar_close": "Kapat",
 
-    "players_tab_search": "İsim/steamid(64) ile ara.",
+    "players_tab_search": "İsim/steamid(64)/usergroup ile ara.",
     "players_tab_search_button": "Ara",
     "players_tab_offline": "Çevrimdışı oyuncular da aransın mı?",
 
