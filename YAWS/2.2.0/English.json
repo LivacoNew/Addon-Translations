@@ -47,7 +47,7 @@
     "player_warn_searchid_wait": "Searching... please wait...",
     "player_warn_searchid_nonefound": "No warning with that ID was found.",
     "player_warn_ui": "You cannot warn through the chat as you are only permitted to use presets.",
-    "player_warn_not_found": "Could not find player \\",
+    "player_warn_not_found": "Could not find player \"%s\"",
     "player_warn_wrongpoints": "The point count specified was invalid.",
     "player_warn_notyou": "You can't warn yourself.",
     "player_warn_deleted": "Successfully deleted warning.",
