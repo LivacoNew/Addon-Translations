@@ -87,8 +87,7 @@
     "viewing_player_table_right_points": "Copy Points Added",
     "viewing_player_table_right_server": "Copy Server Name",
     "viewing_player_table_right_log": "Copy as Log",
-    "viewing_player_table_right_edit": "Edit Reason",
-    "viewing_player_table_log_format": "[%s] %s(%s) warned %s(%s) for the reason \\",
+    "viewing_player_table_log_format": "[%s] %s(%s) warned %s(%s) for the reason \"%s\", adding %s points.",
 
     "viewing_player_wipe_header": "Wipe all of %s's warnings?",
     "viewing_player_wipe_subtext": "This is irreversible. Make sure this is what you want to do.",
