@@ -43,7 +43,6 @@
     "player_warn_help7": "%s warn <Spieler> <Punkte> <Grund> -> Verwarnt einen Spieler.",
     "player_warn_noid": "Benötigt eine Verwarnungsnummer zum suchen.",
     "player_warn_noplayer": "Benötigt einen Spieler zum anschauen.", 
-    "player_warn_help": "Um einen Spieler per Chat zu verwarnen, nutze: !warn <Spieler> <Punkteanzahl> <Grund>",
     "player_warn_help_console": "Um einen Spieler per Konsole zu verwarnen, nutze: yaws warn <Spieler> <Punktezahl> <Grund>",
     "player_warn_searchid_wait": "Suche...",
     "player_warn_searchid_nonefound": "Keiner Verwarnung mit der ID gefunden.",
