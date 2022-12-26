@@ -49,6 +49,10 @@
         "Spanish": {
             "file": "https://raw.githubusercontent.com/LivacoNew/Addon-Translations/master/YAWS/2.2.0/Spanish.json",
             "icon": "flags16/es.png"
+        },
+        "Brazilian (Portuguese)": {
+            "file": "https://raw.githubusercontent.com/LivacoNew/Addon-Translations/master/YAWS/2.2.0/Brazilian_pt.json",
+            "icon": "flags16/br.png"
         }
     }
 }
