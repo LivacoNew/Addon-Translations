@@ -57,6 +57,6 @@
         "German": {
             "file": "https://raw.githubusercontent.com/LivacoNew/Addon-Translations/master/YAWS/2.2.0/German.json",
             "icon": "flags16/de.png"
-        },
+        }
     }
 }
