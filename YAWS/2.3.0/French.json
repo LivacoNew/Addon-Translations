@@ -210,7 +210,7 @@
     "admin_settings_point_cooldown_time_desc": "Combien de temps en secondes avant que les points actifs soient retirés d'un joueur. 0 pour désactiver.",
 
     "admin_settings_point_cooldown_amount_name": "Points Retirés",
-    "admin_settings_point_cooldown_amount_desc": "Combien de points doivent être déduits pour chaque désactivation. Ne fonctionne pas si l'option est désactivée.",
+    "admin_settings_point_cooldown_amount_desc": "Combien de points doivent être déduits pour chaque désactivation. 0 pour tous les supprimer.",
 
     "admin_settings_point_max_name": "Points Maximum",
     "admin_settings_point_max_desc": "Le nombre de points maximum qu'un warn peut avoir.",
