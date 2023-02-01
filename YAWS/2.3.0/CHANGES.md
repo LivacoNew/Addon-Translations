@@ -1,0 +1,1 @@
+Key `admin_settings_point_cooldown_amount_desc` has changed from `How many points to deduce each cooldown. Won't do anything if it's disabled.` to `How many points to deduce each cooldown, set to 0 to remove all points on a cooldown.`
