@@ -38,6 +38,10 @@
             "file": "https://raw.githubusercontent.com/LivacoNew/Addon-Translations/master/YAWS/2.2.0/English.json",
             "icon": "flags16/gb.png"
         },
+        "French": {
+            "file": "https://raw.githubusercontent.com/LivacoNew/Addon-Translations/master/YAWS/2.2.0/French.json",
+            "icon": "flags16/fr.png"
+        },
         "Turkish": {
             "file": "https://raw.githubusercontent.com/LivacoNew/Addon-Translations/master/YAWS/2.2.0/Turkish.json",
             "icon": "flags16/tr.png"
@@ -63,6 +67,10 @@
         "English": {
             "file": "https://raw.githubusercontent.com/LivacoNew/Addon-Translations/master/YAWS/2.3.0/English.json",
             "icon": "flags16/gb.png"
+        },
+        "French": {
+            "file": "https://raw.githubusercontent.com/LivacoNew/Addon-Translations/master/YAWS/2.3.0/French.json",
+            "icon": "flags16/fr.png"
         },
         "Brazilian Portuguese": {
             "file": "https://raw.githubusercontent.com/LivacoNew/Addon-Translations/master/YAWS/2.3.0/Brazilian_pt.json",
