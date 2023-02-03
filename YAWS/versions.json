@@ -72,6 +72,10 @@
             "file": "https://raw.githubusercontent.com/LivacoNew/Addon-Translations/master/YAWS/2.3.0/French.json",
             "icon": "flags16/fr.png"
         },
+        "Turkish": {
+            "file": "https://raw.githubusercontent.com/LivacoNew/Addon-Translations/master/YAWS/2.3.0/Turkish.json",
+            "icon": "flags16/tr.png"
+        },
         "Brazilian Portuguese": {
             "file": "https://raw.githubusercontent.com/LivacoNew/Addon-Translations/master/YAWS/2.3.0/Brazilian_pt.json",
             "icon": "flags16/br.png"
