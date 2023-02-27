@@ -1,0 +1,233 @@
+{
+    "authors": [
+        "https://www.gmodstore.com/users/76561198217385521"
+    ],
+
+    "chat_no_permission": "Você não pode fazer isso.",
+    "net_cooldown": "Você está enviando muitas requisições ao servidor, espere um pouco e tente novamente.",
+    "error": "Parece que algo deu errado. Tente novamente mais tarde.",
+
+    "admin_permissions_saved": "Suas novas permissões foram salvas com sucesso.",
+    "admin_config_saved": "Suas novas configurações foram salvas com sucesso.",
+
+    "admin_preset_added": "Predefinição adicionada com sucesso.",
+    "admin_preset_edited": "Predefinição salva com sucesso.",
+    "admin_preset_nope": "Falta informações na sua predefinição .",
+    "admin_preset_dupe": "Uma predefinição com esse nome já existe.",
+    "admin_preset_cantfind": "Essa predefinição não foi encontrada.",
+    "admin_preset_removed": "Predefinição removida.",
+    "admin_preset_limit": "Você não pode ter mais que 32 predefinições.",
+
+    "admin_player_warned": "%s foi advertido com sucesso.",
+    "admin_player_note_update": "As Anotações desse jogador foram atualizadas com successo.",
+    "admin_player_wipewarns": "Advertências de %s removidas com sucesso.",
+    "admin_player_joinwithactive": "%s entrou no servidor com %s pontos ativos.",
+    "admin_player_joinwithnote": "%s entrou no servidor com Anotações de Administrador.",
+
+    "admin_punishment_created": "Punição criada.",
+    "admin_punishment_removed": "Punição removida.",
+    "admin_punishment_edited": "Punição editada.",
+
+    "player_warn_notice": "%s te fez uma advertência; motivo: %s",
+    "player_warn_broadcast": "%s foi advertido por %s pelo motivo: %s",
+    "player_warn_immune": "Este jogador é imune a advertências.",
+    "player_warn_noreason": "Especifique um motivo para advertir este jogador.",
+    "player_warn_toolong": "Seu motivo não pode possuir mais de 150 caracteres.",
+    "player_warn_minpoints": "Você não pode usar um número negativo de pontos em uma advertência",
+    "player_warn_maxpoints": "Você só pode definir, no máximo, %s pontos em uma advertência.",
+    "player_warn_help1": "%s -> Abre a interface.",
+    "player_warn_help2": "%s <jogador> <pontos> <motivo> -> Adverte um jogador.",
+    "player_warn_help3": "%s <id> -> Busca por um ID de advertência.",
+    "player_warn_help4": "%s help -> Exibe as instruções de uso de um comando.",
+    "player_warn_help5": "%s search <id> -> Busca por advertências pelo ID.",
+    "player_warn_help6": "%s open <jogador> -> Abre a aba de advertências de um jogador.",
+    "player_warn_help7": "%s warn <jogador> <pontos> <motivo> -> Adverte um jogador.",
+    "player_warn_noid": "Informe um ID de advertência para buscar.",
+    "player_warn_noplayer": "Informe um jogador para vizualizar.",
+    "player_warn_help_console": "Para advertir um jogador pelo console, use: yaws warn <jogador> <pontuação> <motivo>",
+    "player_warn_searchid_wait": "Buscando... aguarde...",
+    "player_warn_searchid_nonefound": "Nenhuma advertência com esse ID encontrada.",
+    "player_warn_ui": "Você não pode advertir pelo chat, porque só pode utilizar predefinições.",
+    "player_warn_not_found": "Jogador \"%s\" não encontrado.",
+    "player_warn_wrongpoints": "A contagem de pontos definida é inválida.",
+    "player_warn_notyou": "Você não pode advertir você mesmo.",
+    "player_warn_deleted": "Advertência apagada com sucesso.",
+    "player_warn_deleted_user": "%s apagaou uma de suas advertências.",
+
+    "generic_save": "Salvar alterações",
+    "generic_cancel": "Cancelar",
+    "generic_back": "Voltar",
+    "generic_point_count": "Contagem de pontos",
+    "generic_delete": "Apagar",
+    "generic_warned": "ADVERTIDO",
+
+    "sidebar_warnings": "Advertências",
+    "sidebar_players": "Jogadores",
+    "sidebar_admin": "Administrador",
+    "sidebar_settings": "Configurações",
+    "sidebar_close": "Fechar",
+
+    "players_tab_search": "Buscar por nome/SteamID(64)/cargo.",
+    "players_tab_search_button": "Realizar busca",
+    "players_tab_offline": "Incluir jogadores off-line na busca?",
+
+    "viewing_player_no_warns_found": "Nenhuma advertência foi encontrada para este jogador.",
+    "viewing_player_action_submit_warn": "Enviar nova advertência",
+    "viewing_player_action_view_notes": "Ver Anotações de Administrador",
+    "viewing_player_player_notes": "Anotações de Administrador",
+    "viewing_player_save_player_notes": "Salvar anotação de Administrador",
+    "viewing_player_table_admin": "Administrador",
+    "viewing_player_table_reason": "Motivo",
+    "viewing_player_table_time": "Data",
+    "viewing_player_table_points": "Pontos",
+    "viewing_player_table_server": "Servidor",
+    "viewing_player_table_right_id": "Copiar ID da advertência",
+    "viewing_player_table_right_admin": "Copiar Administrador",
+    "viewing_player_table_right_reason": "Copiar motivo",
+    "viewing_player_table_right_time": "Copiar data",
+    "viewing_player_table_right_points": "Copiar pontos adicionados",
+    "viewing_player_table_right_server": "Copiar nome do servidor",
+    "viewing_player_table_right_log": "Copiar como registro (log)",
+    "viewing_player_table_log_format": "[%s] %s(%s) advertiu %s(%s) pelo motivo \"%s\", adicionando %s pontos.",
+
+    "viewing_player_wipe_header": "Apagar todas as advertências de %s?",
+    "viewing_player_wipe_subtext": "Isto é irreversível. Tenha certeza de que é isto que você quer fazer.",
+
+    "viewing_warn_time": "Data",
+    "viewing_warn_point": "Pontuação da punição",
+    "viewing_warn_server": "Servidor",
+    "viewing_warn_reason": "Motivo",
+
+    "warn_player_submit": "Advertir jogador",
+    "warn_player_reason": "Motivo para advertência",
+
+    "admin_tab_sidebar_permissions": "Permissões",
+    "admin_tab_sidebar_settings": "Configurações",
+    "admin_tab_sidebar_presets": "Predefinições",
+    "admin_tab_sidebar_punishments": "Punições",
+    "admin_tab_sidebar_yaws": "YAWS",
+    "admin_tab_selecttab": "Selecione uma categoria na lateral.",
+
+    "admin_tab_presets_name": "Nome predefinido",
+    "admin_tab_presets_reason": "Motivo predefinido",
+    "admin_tab_presets_create": "Criar predefinição",
+
+    "admin_tab_punishments_selecttype": "Selecione o tipo de punição",
+    "admin_tab_punishments_create": "Criar limiar de punição",
+    "admin_tab_punishments_notype": "Nenhum tipo de punição selecionado.",
+    "admin_tab_punishments_none": "Nenhum tipo de punição encontrado",
+
+    "admin_tab_warning_presets_box": "Selecione uma predefinição",
+    "admin_tab_warning_reason_placeholder": "Defina um motivo",
+
+
+    "yaws_top": "Esta página é vista somente ao comprador do add-on, ou seja, você mesmo",
+    "yaws": "Yet Another Warning System",
+    "yaws_version": "Lançamento %s",
+    "yaws_outdated": "Nova atualização disponível. Por favor, baixe-a logo!",
+
+    "context_warn": "Advertir este jogador",
+    "context_presets": "Advertir este jogador usando uma predefinição",
+    "context_points": "Contagem de pontos: %s",
+    "context_reason": "Motivo da advertência: %s",
+    "context_submit": "Aplicar advertência",
+    "context_viewwarns": "Ver advertências",
+    "context_viewnotes": "Ver notas de Administrador",
+
+    "page_format": "Página %s/%s",
+
+    "no_player_found1": "Nenhum jogador com esse filtro encontrado.",
+    "no_player_found2": "Tentar outro filtro.",
+    "no_warning_found1": "Nenhuma advertência encontrada para este jogador.",
+    "no_warning_found2": "Mas que santo!",
+    "no_punishment_found1": "Nenhuma punição encontrada.",
+    "no_punishment_found2": "Deixaremos que seus Administradores as faça!",
+    "no_presets_found1": "Nenhuma predefinição encontrada.",
+    "no_presets_found2": "Entendemos, você gosta de fazer as coisas do seu jeito.",
+
+    "points_format": "%s ponto(s)",
+
+    "loading": "Carregando...",
+    "loading_hehe": "Está correndo tudo bem...",
+
+    "accessability_points": "Pontos ativos",
+    "accessability_inactivepoints": "Pontos inativos",
+
+    "permission_view_ui": "Abrir interface",
+    "permission_view_self_warns": "Ver próprias advertências",
+    "permission_view_others_warns": "Ver advertências de outros",
+    "permission_view_admin_settings": "Ver e alterar configurações de Administrador",
+    "permission_create_warns": "Criar Advertências",
+    "permission_customise_reason": "Utilizar motivo customizado",
+    "permission_delete_warns": "Apagar Advertências",
+
+    "user_settings_darkmode_name": "Modo escuro",
+    "user_settings_darkmode_desc": "Habilitar modo escuro da interface.",
+
+    "user_settings_language_name": "Idioma",
+    "user_settings_language_desc": "Em qual idioma quer ler este add-on? Requer reabertura da interface.",
+
+    "user_settings_blur_name": "Desfoque do fundo",
+    "user_settings_blur_desc": "Habilita o desfoque no fundo da interface. Requer reabertura da interface.",
+
+    "user_settings_switchicons_name": "Habilitar ícones de botões",
+    "user_settings_switchicons_desc": "Habilita V/X em botões para melhor visibilidade.",
+
+    "user_settings_colorblindtxt_name": "Habilitar textos adicionais",
+    "user_settings_colorblindtxt_desc": "Habilita textos adicionais para maior acessibilidade.",
+
+    "user_settings_tableview_name": "Exibição em tabelas",
+    "user_settings_tableview_desc": "Ao invés de ver cartões de advertências, ver advertências em forma de tabela. Para a Experiência de Visibilidade de Advertências mais SÉRIA™",
+
+    "user_settings_disablefade_name": "Desabilitar animação de exibição da interface",
+    "user_settings_disablefade_desc": "Desabilita o aparecimento/desaparecimento gradual do painel da interface, por aqueles 5ms de velocidade extra!",
+
+    "user_settings_disableanim_name": "Desabilitar animações da interface",
+    "user_settings_disableanim_desc": "Desabilita todas as animações internas da interface.",
+
+    "user_settings_category_interface": "Interface do Usuário (IU)",
+    "user_settings_category_accessibility": "Acessibilidade",
+
+    "admin_settings_prefix_name": "Prefixo",
+    "admin_settings_prefix_desc": "O prefixo do add-on nas mensagens emitidas por ele.",
+
+    "admin_settings_prefix_color_name": "Cor do prefixo",
+    "admin_settings_prefix_color_desc": "A cor do prefixo no chat de texto.",
+
+    "admin_settings_chat_color_name": "Cor das mensagens",
+    "admin_settings_chat_color_desc": "A cor do resto das mensagens. Útil se você estiver usando um chat que não se dá bem com branco.",
+
+    "admin_settings_broadcast_warns_name": "Transmitir Advertências",
+    "admin_settings_broadcast_warns_desc": "Se habilitado, o add-on vai transmitir as advertências a todos on-line no servidor.",
+
+    "admin_settings_reason_required_name": "Motivo obrigatório?",
+    "admin_settings_reason_required_desc": "Se habilitado, Administradores serão obrigados a dar um motivo para advertir.",
+
+    "admin_settings_purge_on_punishment_name": "Limpar com punição",
+    "admin_settings_purge_on_punishment_desc": "Se habilitado, o add-on marcará como inativos os pontos do jogador quando ele for punido.",
+
+    "admin_settings_message_admins_on_notes_join_name": "Notificar Administradores quando um jogador com Anotações de Administrador se conecta",
+    "admin_settings_message_admins_on_notes_join_desc": "Envia uma mensagem a todos com a permissão \"Ver advertências de outros\" quando um jogador com Anotações de Administrador se conectar.",
+
+    "admin_settings_point_cooldown_time_name": "Intervalo de pontos",
+    "admin_settings_point_cooldown_time_desc": "Quanto tempo em segundos até que os pontos ativos de um jogador sejam removidos. Defina para 0 para desabilitar.",
+
+    "admin_settings_point_cooldown_amount_name": "Quantidade de pontos por intervalo",
+    "admin_settings_point_cooldown_amount_desc": "Quantos pontos remover a cada intervalo. Removerá TODOS caso seja definido para 0.",
+
+    "admin_settings_point_max_name": "Máximo de pontos",
+    "admin_settings_point_max_desc": "Quantidade máxima de pontos que uma advertência pode dar.",
+
+    "admin_settings_join_message_enabled_name": "Habilitar mensagem de entrada",
+    "admin_settings_join_message_enabled_desc": "Se habilitado, o add-on enviará uma mensagem aos jogadores com pontos quando se conectarem.",
+
+    "admin_settings_join_message_message_name": "Mensagem de entrada",
+    "admin_settings_join_message_message_desc": "A mensagem que será enviada. {active} = pontos ativos, {inactive} = pontos inativos e {points} = total de pontos.",
+
+    "admin_settings_message_admins_on_active_join_name": "Notificar Administradores quando um jogador com pontos se conecta",
+    "admin_settings_message_admins_on_active_join_desc": "Envia uma mensagem a todos com a permissão \"Ver advertências de outros\" quando um jogador com pontos ativos se conectar.",
+
+    "admin_settings_category_points": "Pontos",
+    "admin_settings_category_branding": "Exibição",
+    "admin_settings_category_warnings": "Advertências"
+}
