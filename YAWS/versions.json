@@ -88,5 +88,11 @@
             "file": "https://raw.githubusercontent.com/LivacoNew/Addon-Translations/master/YAWS/2.3.0/German.json",
             "icon": "flags16/de.png"
         }
+    },
+    "2.3.2": {
+        "English": {
+            "file": "https://raw.githubusercontent.com/LivacoNew/Addon-Translations/master/YAWS/2.3.2/English.json",
+            "icon": "flags16/gb.png"
+        }
     }
 }

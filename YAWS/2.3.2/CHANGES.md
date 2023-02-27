@@ -1,0 +1,4 @@
+- Key `admin_settings_message_admins_on_active_join_desc` has changed from `Send a warning to anyone with \"View Others Warnings\" permission when a player joins with active points.` to `Send a message to anyone with \"View Others Warnings\" permission when a player joins with active points.`
+- New Key `admin_settings_message_admins_on_notes_join_name` 
+- Ney Key `admin_settings_message_admins_on_notes_join_desc`
+- New Key `admin_player_joinwithnote`
