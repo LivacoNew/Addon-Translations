@@ -195,7 +195,7 @@
     "admin_settings_prefix_color_desc": "A cor do prefixo no chat de texto.",
 
     "admin_settings_chat_color_name": "Cor das mensagens",
-    "admin_settings_chat_color_desc": "A cor do resto das mensagens. Mude ser utilizar um chat branco.",
+    "admin_settings_chat_color_desc": "A cor do resto das mensagens. Mude se utilizar um chat branco.",
 
     "admin_settings_broadcast_warns_name": "Transmitir Advertências",
     "admin_settings_broadcast_warns_desc": "Se habilitado, o add-on vai transmitir as advertências a todos on-line no servidor.",
