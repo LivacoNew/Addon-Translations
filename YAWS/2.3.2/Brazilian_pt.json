@@ -28,7 +28,7 @@
     "admin_punishment_removed": "Punição removida.",
     "admin_punishment_edited": "Punição editada.",
 
-    "player_warn_notice": "%s te fez uma advertência; motivo: %s",
+    "player_warn_notice": "%s te deu uma advertência; motivo: %s",
     "player_warn_broadcast": "%s foi advertido por %s pelo motivo: %s",
     "player_warn_immune": "Este jogador é imune a advertências.",
     "player_warn_noreason": "Especifique um motivo para advertir este jogador.",
@@ -63,11 +63,11 @@
 
     "sidebar_warnings": "Advertências",
     "sidebar_players": "Jogadores",
-    "sidebar_admin": "Administrador",
+    "sidebar_admin": "Administrar",
     "sidebar_settings": "Configurações",
     "sidebar_close": "Fechar",
 
-    "players_tab_search": "Buscar por nome/SteamID(64)/cargo.",
+    "players_tab_search": "Buscar por nome/SteamID/cargo.",
     "players_tab_search_button": "Realizar busca",
     "players_tab_offline": "Incluir jogadores off-line na busca?",
 
@@ -76,7 +76,7 @@
     "viewing_player_action_view_notes": "Ver Anotações de Administrador",
     "viewing_player_player_notes": "Anotações de Administrador",
     "viewing_player_save_player_notes": "Salvar anotação de Administrador",
-    "viewing_player_table_admin": "Administrador",
+    "viewing_player_table_admin": "Admin.",
     "viewing_player_table_reason": "Motivo",
     "viewing_player_table_time": "Data",
     "viewing_player_table_points": "Pontos",
@@ -121,7 +121,7 @@
     "admin_tab_warning_reason_placeholder": "Defina um motivo",
 
 
-    "yaws_top": "Esta página é vista somente ao comprador do add-on, ou seja, você mesmo",
+    "yaws_top": "Esta página é visível somente ao comprador do add-on, ou seja, você mesmo",
     "yaws": "Yet Another Warning System",
     "yaws_version": "Lançamento %s",
     "yaws_outdated": "Nova atualização disponível. Por favor, baixe-a logo!",
@@ -165,7 +165,7 @@
     "user_settings_darkmode_desc": "Habilitar modo escuro da interface.",
 
     "user_settings_language_name": "Idioma",
-    "user_settings_language_desc": "Em qual idioma quer ler este add-on? Requer reabertura da interface.",
+    "user_settings_language_desc": "Em qual idioma quer este add-on? Requer reabertura da interface.",
 
     "user_settings_blur_name": "Desfoque do fundo",
     "user_settings_blur_desc": "Habilita o desfoque no fundo da interface. Requer reabertura da interface.",
@@ -195,7 +195,7 @@
     "admin_settings_prefix_color_desc": "A cor do prefixo no chat de texto.",
 
     "admin_settings_chat_color_name": "Cor das mensagens",
-    "admin_settings_chat_color_desc": "A cor do resto das mensagens. Útil se você estiver usando um chat que não se dá bem com branco.",
+    "admin_settings_chat_color_desc": "A cor do resto das mensagens. Mude ser utilizar um chat branco.",
 
     "admin_settings_broadcast_warns_name": "Transmitir Advertências",
     "admin_settings_broadcast_warns_desc": "Se habilitado, o add-on vai transmitir as advertências a todos on-line no servidor.",
@@ -206,11 +206,11 @@
     "admin_settings_purge_on_punishment_name": "Limpar com punição",
     "admin_settings_purge_on_punishment_desc": "Se habilitado, o add-on marcará como inativos os pontos do jogador quando ele for punido.",
 
-    "admin_settings_message_admins_on_notes_join_name": "Notificar Administradores quando um jogador com Anotações de Administrador se conecta",
-    "admin_settings_message_admins_on_notes_join_desc": "Envia uma mensagem a todos com a permissão \"Ver advertências de outros\" quando um jogador com Anotações de Administrador se conectar.",
+    "admin_settings_message_admins_on_notes_join_name": "Avisar Administradores quando um jogador com Anotações entrar",
+    "admin_settings_message_admins_on_notes_join_desc": "Avisar todos com a permissão \"Ver advertências de outros\" quando um jogador com Anotações se conectar.",
 
     "admin_settings_point_cooldown_time_name": "Intervalo de pontos",
-    "admin_settings_point_cooldown_time_desc": "Quanto tempo em segundos até que os pontos ativos de um jogador sejam removidos. Defina para 0 para desabilitar.",
+    "admin_settings_point_cooldown_time_desc": "Tempo em segundos para os pontos ativos de um jogador serem removidos. 0 para desabilitar.",
 
     "admin_settings_point_cooldown_amount_name": "Quantidade de pontos por intervalo",
     "admin_settings_point_cooldown_amount_desc": "Quantos pontos remover a cada intervalo. Removerá TODOS caso seja definido para 0.",
@@ -222,10 +222,10 @@
     "admin_settings_join_message_enabled_desc": "Se habilitado, o add-on enviará uma mensagem aos jogadores com pontos quando se conectarem.",
 
     "admin_settings_join_message_message_name": "Mensagem de entrada",
-    "admin_settings_join_message_message_desc": "A mensagem que será enviada. {active} = pontos ativos, {inactive} = pontos inativos e {points} = total de pontos.",
+    "admin_settings_join_message_message_desc": "{active} = pontos ativos, {inactive} = pontos inativos e {points} = total de pontos.",
 
-    "admin_settings_message_admins_on_active_join_name": "Notificar Administradores quando um jogador com pontos se conecta",
-    "admin_settings_message_admins_on_active_join_desc": "Envia uma mensagem a todos com a permissão \"Ver advertências de outros\" quando um jogador com pontos ativos se conectar.",
+    "admin_settings_message_admins_on_active_join_name": "Avisar Administradores quando um jogador com pontos ativos entrar",
+    "admin_settings_message_admins_on_active_join_desc": "Avisar todos com a permissão \"Ver advertências de outros\" quando um jogador com pontos se conectar.",
 
     "admin_settings_category_points": "Pontos",
     "admin_settings_category_branding": "Exibição",
