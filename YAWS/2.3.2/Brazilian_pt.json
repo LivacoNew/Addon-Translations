@@ -165,7 +165,7 @@
     "user_settings_darkmode_desc": "Habilitar modo escuro da interface.",
 
     "user_settings_language_name": "Idioma",
-    "user_settings_language_desc": "Em qual idioma quer este add-on? Requer reabertura da interface.",
+    "user_settings_language_desc": "Em qual idioma quer o add-on? Requer reabertura da interface.",
 
     "user_settings_blur_name": "Desfoque do fundo",
     "user_settings_blur_desc": "Habilita o desfoque no fundo da interface. Requer reabertura da interface.",
@@ -201,12 +201,12 @@
     "admin_settings_broadcast_warns_desc": "Se habilitado, o add-on vai transmitir as advertências a todos on-line no servidor.",
 
     "admin_settings_reason_required_name": "Motivo obrigatório?",
-    "admin_settings_reason_required_desc": "Se habilitado, Administradores serão obrigados a dar um motivo para advertir.",
+    "admin_settings_reason_required_desc": "Se habilitado, Admins. serão obrigados a dar um motivo para advertir.",
 
     "admin_settings_purge_on_punishment_name": "Limpar com punição",
     "admin_settings_purge_on_punishment_desc": "Se habilitado, o add-on marcará como inativos os pontos do jogador quando ele for punido.",
 
-    "admin_settings_message_admins_on_notes_join_name": "Avisar Administradores quando um jogador com Anotações entrar",
+    "admin_settings_message_admins_on_notes_join_name": "Avisar Admins. quando um jogador com Anotações entrar",
     "admin_settings_message_admins_on_notes_join_desc": "Avisar todos com a permissão \"Ver advertências de outros\" quando um jogador com Anotações se conectar.",
 
     "admin_settings_point_cooldown_time_name": "Intervalo de pontos",
@@ -224,7 +224,7 @@
     "admin_settings_join_message_message_name": "Mensagem de entrada",
     "admin_settings_join_message_message_desc": "{active} = pontos ativos, {inactive} = pontos inativos e {points} = total de pontos.",
 
-    "admin_settings_message_admins_on_active_join_name": "Avisar Administradores quando um jogador com pontos ativos entrar",
+    "admin_settings_message_admins_on_active_join_name": "Avisar Admins. quando um jogador com pontos ativos entrar",
     "admin_settings_message_admins_on_active_join_desc": "Avisar todos com a permissão \"Ver advertências de outros\" quando um jogador com pontos se conectar.",
 
     "admin_settings_category_points": "Pontos",
