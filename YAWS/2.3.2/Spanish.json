@@ -207,7 +207,7 @@
 	"admin_settings_purge_on_punishment_desc": "Si se activa, el addon marcará todos los puntos del jugador como inactivos cuando sea castigado.",
 
 	"admin_settings_message_admins_on_notes_join_name": "Enviar mensaje al staff cuando un jugador con notas de admin. entra",
-    "admin_settings_message_admins_on_notes_join_desc": "Enviar mensaje a todos con el permiso \"Ver Notas de Admin.\" cuando un jugado con notas de admin. entra.",
+   	"admin_settings_message_admins_on_notes_join_desc": "Enviar mensaje a todos con el permiso \"Ver Notas de Admin.\" cuando un jugado con notas de admin. entra.",
 
 	"admin_settings_point_cooldown_time_name": "Tiempo de Enfriamiento de Puntos",
 	"admin_settings_point_cooldown_time_desc": "Tiempo en segundos para que se remuevan los puntos activos de un jugador. 0 para desactivar.",
