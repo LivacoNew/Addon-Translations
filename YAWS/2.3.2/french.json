@@ -1,0 +1,234 @@
+{
+    "authors": [
+        "https://www.gmodstore.com/users/Livaco"
+    ],
+    
+    "chat_no_permission": "Vous n'êtes pas autorisé à faire ça.",
+    "net_cooldown": "Vous envoyez trop de requêtes au serveur, veuillez réessayer plus tard.",
+    "error": "Une erreur a été rencontré. Veuillez réessayer plus tard.",
+
+    "admin_permissions_saved": "Nouvelles permissions sauvegardées.",
+    "admin_config_saved": "Configuration sauvegardée avec succès.",
+
+    "admin_preset_added": "Un nouveau préréglage a été ajouté avec succès.",
+    "admin_preset_edited": "Préréglage modifié avec succès.",
+    "admin_preset_nope": "Préréglage incomplet.",
+    "admin_preset_dupe": "Préréglage avec ce nom déjà existant.",
+    "admin_preset_cantfind": "Préréglage introuvable.",
+    "admin_preset_removed": "Préréglage supprimé.",
+    "admin_preset_limit": "Vous ne pouvez pas avoir plus de 32 préréglages.",
+
+    "admin_player_warned": "%s averti avec succès.",
+    "admin_player_note_update": "Notes sur le joueur modifiées avec succès.",
+    "admin_player_wipewarns": "Tous les warns de %s ont été supprimés avec succès.",
+    "admin_player_joinwithactive": "%s a rejoint le serveur avec %s points actifs.",
+    "admin_player_joinwithnote": "%s a rejoint le serveur avec une note d'admin.",
+    
+    "admin_punishment_created": "Sanction créée.",
+    "admin_punishment_removed": "Sanction supprimée.",
+    "admin_punishment_edited": "Sanction modifiée.",
+
+    "player_warn_notice": "%s vous a warn pour la raison suivante: %s",
+    "player_warn_broadcast": "%s a reçu un warn de %s pour la raison suivante : %s",
+    "player_warn_immune": "Ce joueur est immunisé aux warns.",
+    "player_warn_noreason": "Veuillez spécifier une raison pour warn ce joueur.",
+    "player_warn_toolong": "Votre raison ne peut pas être plus longue que 150 caractères.",
+    "player_warn_minpoints": "Vous ne pouvez pas entrer un nombre négatif de points pour un warn.",
+    "player_warn_maxpoints": "Vous ne pouvez mettre qu'au maximum %s points pour un warn.",
+    "player_warn_help1": "%s -> Ouvre le menu.",
+    "player_warn_help2": "%s <player> <points> <reason> -> Warn un joueur.",
+    "player_warn_help3": "%s <id> -> Rechercher via l'ID du warn.",
+    "player_warn_help4": "%s help -> Donne l'aide pour l'utilisation de cette commande.",
+    "player_warn_help5": "%s search <id> -> Rechercher via l'ID du warn.",
+    "player_warn_help6": "%s open <player> -> Ouvre les warns d'un joueur.",
+    "player_warn_help7": "%s warn <player> <points> <reason> -> Avertir un joueur.",
+    "player_warn_noid": "Fournissez un ID de warn à rechercher.",
+    "player_warn_noplayer": "Fournissez un joueur à inspecter.",
+    "player_warn_help_console": "Pour avertir un joueur depuis la console, utilisez: yaws warn <player> <point count> <reason>",
+    "player_warn_searchid_wait": "Recherche en cours...",
+    "player_warn_searchid_nonefound": "Aucun warn avec cet ID n'a été trouvé.",
+    "player_warn_ui": "Vous ne pouvez pas warn depuis le chat car vous êtes limités aux préréglages.",
+    "player_warn_not_found": "Le joueur \"%s\" n'a pas été trouvé.",
+    "player_warn_wrongpoints": "Le nombre de points spécifié était invalide.",
+    "player_warn_notyou": "Vous ne pouvez pas vous-même vous avertir.",
+    "player_warn_deleted": "Warn supprimé avec succès.",
+    "player_warn_deleted_user": "%s a supprimé un de vos warns.",
+
+    "generic_save": "Sauvegarder",
+    "generic_cancel": "Annuler",
+    "generic_back": "Retour",
+    "generic_point_count": "Nombre de points",
+    "generic_delete": "Supprimer",
+    "generic_warned": "AVERTIS",
+
+    "sidebar_warnings": "Warns",
+    "sidebar_players": "Joueurs",
+    "sidebar_admin": "Admin",
+    "sidebar_settings": "Réglages",
+    "sidebar_close": "Fermer",
+
+    "players_tab_search": "Chercher via nom/steamid(64)/usergroup.",
+    "players_tab_search_button": "Rechercher",
+    "players_tab_offline": "Rechercher aussi parmi les joueurs hors-ligne ?",
+
+    "viewing_player_no_warns_found": "Aucun warn trouvé pour ce joueur.",
+    "viewing_player_action_submit_warn": "Nouveau warn",
+    "viewing_player_action_view_notes": "Voir les Notes",
+    "viewing_player_player_notes": "Notes Admin",
+    "viewing_player_save_player_notes": "Sauvegarder",
+    "viewing_player_table_admin": "Admin",
+    "viewing_player_table_reason": "Raison",
+    "viewing_player_table_time": "Date",
+    "viewing_player_table_points": "Points",
+    "viewing_player_table_server": "Serveur",
+    "viewing_player_table_right_id": "Copier l'ID de warn",
+    "viewing_player_table_right_admin": "Copier l'Admin",
+    "viewing_player_table_right_reason": "Copier la Raison",
+    "viewing_player_table_right_time": "Copier la Date",
+    "viewing_player_table_right_points": "Copier les Points",
+    "viewing_player_table_right_server": "Copier le Serveur",
+    "viewing_player_table_right_log": "Copier en tant que Log",
+    "viewing_player_table_log_format": "[%s] %s(%s) a warn %s(%s) pour la raison \"%s\", ajoutant %s points.",
+
+    "viewing_player_wipe_header": "Supprimer tous les warns de %s?",
+    "viewing_player_wipe_subtext": "Cela est irrévocable. Soyez sûr de ce que vous faites.",
+
+    "viewing_warn_time": "Date",
+    "viewing_warn_point": "Pénalité de Point",
+    "viewing_warn_server": "Serveur",
+    "viewing_warn_reason": "Raison",
+
+    "warn_player_submit": "Warn",
+    "warn_player_reason": "Raison",
+
+    "admin_tab_sidebar_permissions": "Permissions",
+    "admin_tab_sidebar_settings": "Réglages",
+    "admin_tab_sidebar_presets": "Préréglages",
+    "admin_tab_sidebar_punishments": "Sanctions",
+    "admin_tab_sidebar_yaws": "YAWS",
+    "admin_tab_selecttab": "Sélectionnez une catégorie sur le côté.",
+    
+    "admin_tab_presets_name": "Nom du Préréglage",
+    "admin_tab_presets_reason": "Raison du Préréglage",
+    "admin_tab_presets_create": "Créer le Préréglage",
+
+    "admin_tab_punishments_selecttype": "Sélectionnez un type de Sanction",
+    "admin_tab_punishments_create": "Créer un seuil de Sanction",
+    "admin_tab_punishments_notype": "Aucun type de sanction sélectionné.",
+    "admin_tab_punishments_none": "Aucune sanction trouvée",
+
+    "admin_tab_warning_presets_box": "Sélectionner un Préréglage",
+    "admin_tab_warning_reason_placeholder": "Entrez la Raison",
+
+    "yaws_top": "Cet onglet est uniquement visible au propriétaire de l'addon",
+    "yaws": "Yet Another Warning System",
+    "yaws_version": "Version %s",
+    "yaws_outdated": "Une nouvelle version est disponible. Téléchargez là rapidement!",
+
+    "context_warn": "Warn ce Joueur",
+    "context_presets": "Warn ce Joueur via un Préréglage",
+    "context_points": "Nombre de Points: %s",
+    "context_reason": "Raison: %s",
+    "context_submit": "Warn",
+    "context_viewwarns": "Voir les Warns",
+    "context_viewnotes": "Voir les Notes",
+
+    "page_format": "Page %s/%s",
+
+    "no_player_found1": "Aucun joueur correspondant à ce filtre n'a été trouvé.",
+    "no_player_found2": "Essayez un autre filtre.",
+    "no_warning_found1": "Aucun warn trouvé pour ce joueur.",
+    "no_warning_found2": "Ça sonne creux dis-donc !",
+    "no_punishment_found1": "Aucune sanction trouvée.",
+    "no_punishment_found2": "Nous laisserons votre staff s'en occuper!",
+    "no_presets_found1": "Aucun préréglage trouvé.",
+    "no_presets_found2": "Compris, on n'est jamais mieux servi que par soi-même.",
+
+    "points_format": "%s Point(s)",
+
+    "loading": "Chargement...",
+    "loading_hehe": "C'est l'heure de chômer...",
+
+    "accessability_points": "Points Actifs",
+    "accessability_inactivepoints": "Points Inactifs",
+
+    "permission_view_ui": "Ouvrir le menu",
+    "permission_view_self_warns": "Voir ses propres warns",
+    "permission_view_others_warns": "Voir les warns des autres",
+    "permission_view_admin_settings": "Voir et modifier les paramètres Admin",
+    "permission_create_warns": "Créer des warns",
+    "permission_customise_reason": "Utiliser une raison personnalisée",
+    "permission_delete_warns": "Supprimer des warns",
+
+    "user_settings_darkmode_name": "Mode Sombre",
+    "user_settings_darkmode_desc": "Active le mode sombre dans l'interface.",
+
+    "user_settings_language_name": "Langage",
+    "user_settings_language_desc": "Quel langue souhaitez-vous utiliser? Nécessite une ré-ouverture du menu.",
+
+    "user_settings_blur_name": "Flouter l'Arrière-plan",
+    "user_settings_blur_desc": "Active un flou en arrière-plan. Nécessite une ré-ouverture du menu.",
+
+    "user_settings_switchicons_name": "Activer les Icônes",
+    "user_settings_switchicons_desc": "Active les icônes sur les boutons pour l'accessibilité.",
+
+    "user_settings_colorblindtxt_name": "Activer les Astuces",
+    "user_settings_colorblindtxt_desc": "Active du texte supplémentaire pour l'accessibilité.",
+
+    "user_settings_tableview_desc": "Instead of viewing warning cards, view warnings as a table. For the most SERIOUS Warning Viewing Experience™",
+
+    "user_settings_tableview_name": "Vue Tableau",
+    "user_settings_tableview_desc": "Plutôt que le format carte, voir les warns sous forme de tableau. Pour l'expérience la plus SÉRIEUSE du système.™",
+
+    "user_settings_disablefade_name": "Disparition de l'UI",
+    "user_settings_disablefade_desc": "Désactive l'effet de fade à l'ouverture / la fermeture de l'interface!",
+
+    "user_settings_disableanim_name": "Désactiver les Animations",
+    "user_settings_disableanim_desc": "Désactive toutes les animations en interne.",
+
+    "user_settings_category_interface": "Interface Utilisateur",
+    "user_settings_category_accessibility": "Accessibilité",
+
+    "admin_settings_prefix_name": "Préfixe",
+    "admin_settings_prefix_desc": "Le préfixe que l'addon utilisera dans le chat.",
+
+    "admin_settings_prefix_color_name": "Couleur du Préfixe",
+    "admin_settings_prefix_color_desc": "La couleur du préfix que l'addon utilisera dans le chat.",
+
+    "admin_settings_chat_color_name": "Couleur du Message",
+    "admin_settings_chat_color_desc": "La couleur du reste de l'ensemble des messages dans le chat.",
+
+    "admin_settings_broadcast_warns_name": "Diffuser les Warns",
+    "admin_settings_broadcast_warns_desc": "Si activé, l'addon diffusera les warns à tous les joueurs connectés.",
+
+    "admin_settings_reason_required_name": "Raison Requise?",
+    "admin_settings_reason_required_desc": "Si activé, les staffs devront indiquer une raison pour chaque warns.",
+
+    "admin_settings_purge_on_punishment_name": "Purge Post-Sanction",
+    "admin_settings_purge_on_punishment_desc": "Si activé, l'addon marquera l'ensemble des points d'un joueur comme inactif après une sanction.",
+
+    "admin_settings_message_admins_on_notes_join_name": "Envoyer un message aux membres du staff après qu'un joueur avec des notes d'admins rejoigne le serveur",
+    "admin_settings_message_admins_on_notes_join_desc": "Envoie un message permettant de savoir si une personne rejoint et qu'elle a une note admin sur elle permission requise.",
+
+    "admin_settings_point_cooldown_time_name": "Délai de Désactivation",
+    "admin_settings_point_cooldown_time_desc": "Combien de temps en secondes avant que les points actifs soient retirés d'un joueur. 0 pour désactiver.",
+
+    "admin_settings_point_cooldown_amount_name": "Points Retirés",
+    "admin_settings_point_cooldown_amount_desc": "Combien de points doivent être déduits pour chaque désactivation. 0 pour tous les supprimer.",
+
+    "admin_settings_point_max_name": "Points Maximum",
+    "admin_settings_point_max_desc": "Le nombre de points maximum qu'un warn peut avoir.",
+
+    "admin_settings_join_message_enabled_name": "Message d'Accueil",
+    "admin_settings_join_message_enabled_desc": "Si activé, l'addon envoie un message aux joueurs s'ils ont des points actifs lors de la connexion.",
+
+    "admin_settings_join_message_message_name": "Contenu du Message",
+    "admin_settings_join_message_message_desc": "Le message a envoyé. {active} pour les points actifs, {inactive} pour les inactifs, {points} pour le total.",
+
+    "admin_settings_message_admins_on_active_join_name": "Informer les Staffs",
+    "admin_settings_message_admins_on_active_join_desc": "Envoie un message à ceux pouvant \"Voir les warns des autres \" quand un joueur rejoint avec des points actifs.",
+
+    "admin_settings_category_points": "Points",
+    "admin_settings_category_branding": "Identité",
+    "admin_settings_category_warnings": "Warns"
+}
