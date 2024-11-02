@@ -175,8 +175,6 @@
     "user_settings_colorblindtxt_name": "Activer les Astuces",
     "user_settings_colorblindtxt_desc": "Active du texte supplémentaire pour l'accessibilité.",
 
-    "user_settings_tableview_desc": "Instead of viewing warning cards, view warnings as a table. For the most SERIOUS Warning Viewing Experience™",
-
     "user_settings_tableview_name": "Vue Tableau",
     "user_settings_tableview_desc": "Plutôt que le format carte, voir les warns sous forme de tableau. Pour l'expérience la plus SÉRIEUSE du système.™",
 
